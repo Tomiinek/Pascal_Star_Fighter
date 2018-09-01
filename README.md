@@ -7,6 +7,6 @@ See the [`ZAPOCTAK.PAS`](https://github.com/Tomiinek/PascalStarFighter/tree/mast
 
 Use DOSBox and Borland Pascal compiler v7.0 to compile and run the program. Two additional libraries for handling time and keyboard input are needed - `TIME.PAS` and `KEYBOARD.PAS` (original files available [here](https://github.com/Spekkio/Knight)). You can use precompiled libraries `TIME.TPU` and `KEYBOARD.TPU`.
 
-You may have a problem with the `Runtime error 200` (division by zero). It is a caused by a well-known bug of the CRT library and you should patch the errorneous executable file with PatchCRT or TPPatch.
-
 [![YOUTUBE_VIDEO](_img/video_thumbnail.png)](https://youtu.be/5rm_J-ofoT0)
+
+You may have a problem with the `Runtime error 200` (division by zero). It is a caused by a well-known bug of the CRT library and you should patch the errorneous executable file with PatchCRT or TPPatch.
